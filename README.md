@@ -3,7 +3,7 @@
 A VBA function to tally the unique values in a range. Because Excel has no simple means to count unique elements of a range where not all contents of the range are known previously, Tally Range is necessary. COUNTIF cannot be used unless all unique elements of a range are listed in a separate location, which can be tedious when the data isn't known.
 
 
-How to Import 
+How to Import: 
 	1. Download (or Save As) the TallyRangeVBA.bas file to any location on your computer.
 	2. Open the Excel file you wish to use.
 	3. Press Alt and F11 on your keyboard to open the Visual Basic Window
